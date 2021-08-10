@@ -1,10 +1,10 @@
 {
   "name": "react-native-pure-jwt",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "React Native Pure JWT implementation",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
-  "author": "Luis Felipe Zaguini",
+  "author": "Luis Felipe Zaguini + Tomaks28",
   "license": "MIT",
   "repository": {
     "type": "git",
