@@ -9,8 +9,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/zaguiini/react-native-pure-jwt.git"
-  },
-  "peerDependencies": {
-    "react-native": "^0.64.1"
   }
 }
